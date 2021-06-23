@@ -1,0 +1,3 @@
+﻿  UnSortedSet.cpp
+D:\Computer Science\C++\Program_4-1\Program_4-1\UnSortedSet.cpp(23,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Program_4-1.vcxproj -> D:\Computer Science\C++\Program_4-1\Debug\Program_4-1.exe
